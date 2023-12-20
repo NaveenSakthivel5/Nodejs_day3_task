@@ -9,4 +9,4 @@ FOllow the API's in home page (".../") for proceeding the following tasks
   4.Write API to Assign or Change Mentor for particular Student
       Select One Student and Assign one Mentor
   5.Write API to show all students for a particular mentor
-  6.Write an API to show the previously assigned mentor for a particular student.
+  6.Write an API to show the previously assigned mentor for a particular student
