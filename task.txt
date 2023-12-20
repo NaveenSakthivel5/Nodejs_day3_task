@@ -1,0 +1,6 @@
+1. API to create mentor ->  ".../mentor"                   
+2. API to create mentor ->  ".../student"
+3. API to Assign a Student to Mentor ->  ".../mentor/:mentorId/assign"
+4. API to Assign or Change Mentor for particular Student ->  ".../student/:studentId/assignMentor/:mentorId"
+5. API to show all students for a particular mentor ->  ".../mentor/:mentorId/students"
+6. API to show the previously assigned mentor for a particular student ->  ".../student/previousmentor/:studentId"
